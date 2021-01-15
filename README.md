@@ -21,4 +21,4 @@ To install Spine Engine into an existing Python environment, run
 
 ### Dependencies
 
-Spine Engine installation will install [dagster](https://dagster.readthedocs.io/en/master/index.html).
+Spine Engine installation will install [dagster](https://docs.dagster.io/).
